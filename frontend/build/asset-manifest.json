@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.6f587042.css",
-    "main.js": "/static/js/main.8b4f4034.js",
+    "main.js": "/static/js/main.f7aec40c.js",
     "static/media/Konukkupoo.png": "/static/media/Konukkupoo.793f850cda22dc1804b8.png",
     "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
     "index.html": "/index.html",
     "main.6f587042.css.map": "/static/css/main.6f587042.css.map",
-    "main.8b4f4034.js.map": "/static/js/main.8b4f4034.js.map"
+    "main.f7aec40c.js.map": "/static/js/main.f7aec40c.js.map"
   },
   "entrypoints": [
     "static/css/main.6f587042.css",
-    "static/js/main.8b4f4034.js"
+    "static/js/main.f7aec40c.js"
   ]
 }

@@ -26,8 +26,7 @@ const About = () => {
               Visit Instagram
             </Button>
             <span>
-              This is a sample wesbite made by @meabhisingh. Only with the
-              purpose to teach MERN Stack on the channel 6 Pack Programmer
+              This is a website developed by Rishith Reddy a btech student of Vnrvjiet from telanagana
             </span>
           </div>
           <div className="aboutSectionContainer2">
