@@ -50,7 +50,7 @@ export const loadUser = () => async (dispatch) => {
 //logout user
 export const logout = () => async (dispatch) => {
   try {
-    await axios.get('/api/v1/logout')
+    await axios.get('/api/v1/logout',{credentials: 'same-origin' })
     dispatch({ type: "LOGOUT_SUCCESS" });
   } catch (error) {
     dispatch({ type: "LOGOUT_FAIL", payload: error.response.data.message });
